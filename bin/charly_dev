@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'charly_dev'
+
+dev = CharlyDev::Dev.new
+dev.charly
