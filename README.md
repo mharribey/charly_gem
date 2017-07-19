@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just type this in terminal and let the power of the gem blow your ming :
+    $ charly_dev
+    
 
 ## Development
 
