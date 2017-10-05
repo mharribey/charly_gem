@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Just type this in terminal and let the power of the gem blow your ming :
+Just type this in terminal and let the power of the gem blow your mind :
 
     $ charly_dev
     
